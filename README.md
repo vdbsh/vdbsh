@@ -1,5 +1,6 @@
 # ☕️ Hello there 
-I just like code simple things and hope you'll find my stuff handy!   
+I like code simple things.  
+Hope you'll find my stuff handy.
 
 ## Projects
 * TBA
