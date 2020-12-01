@@ -5,7 +5,7 @@ Hope you'll find my stuff handy.
 # 💾 Projects
 ### [📦 backy: tiny multiprocessing utility for file backups](https://github.com/vdbsh/backy)
 
-Have a great day!
-
 # 📬 Contact
 [echo@vdbsh.com](mailto:echo@vdbsh.com)
+
+✨ Have a great day!
