@@ -13,4 +13,4 @@ Hope you'll find my stuff handy.
 - [🧟 riprunner: batch script that terminates process after its window is closed (useful for hunting zombies)](https://gist.github.com/vdbsh/84b85a458512a07af4c91227f7ac1f1c)
 - [🔥 rpzgen: HOSTS to RPZ rules converter for DNS firewalls (like in BIND 9)](https://gist.github.com/vdbsh/c271d6be6e6e8f4a10e5f2039338c541)
 - [🔌 natpmprfr.sh: Maps network ports thru NAT-PMP and refreshes that mapping automatically](https://gist.github.com/vdbsh/cc129c90e978a1ddb222446f68e67080)
-   
+- [#️⃣ shebangarch.sh: Set architecture of your shellscript runtime by using unconventional shebang](https://gist.github.com/vdbsh/5567e583121f135036900a32175779a9)
