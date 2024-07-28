@@ -4,7 +4,7 @@ Hope you'll find my stuff handy.
 ✨ Have a nice day!
 
 # 💾 Projects
-- [📘 circuitshelter: little blog about code and oldies](https://www.circuitshelter.com/)
+- [📘 circuitshelter: tiny blog about code and oldies](https://www.circuitshelter.com/)
 - [📦 backy: tiny multiprocessing utility for file backups](https://github.com/vdbsh/backy)
 
 # 🧶 Misc
